@@ -5,6 +5,7 @@
 ```npm install```  - установит пакеты из package.json
 
 ```npm install dotenv --save``` - установит dotenv для работы с .env
+
 ```npx playwright install``` - установит браузеры для Playwright
 
 Запуск тестов
