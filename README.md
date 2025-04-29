@@ -10,7 +10,7 @@
 
 Запуск тестов
 # запускает все тесты в headless режиме
-npx playwright test
+```npx playwright test```
 
 Создайте файл .env в корне проекта со следующими переменными:
-BASE_URL=https://налетай.рф
+```BASE_URL=https://налетай.рф```
